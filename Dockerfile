@@ -1,4 +1,4 @@
-FROM alpine
+FROM mhart/alpine-node:6.11.4
 
 MAINTAINER Alex Fux <alexander@soluto.com>
 
