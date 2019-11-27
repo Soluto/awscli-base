@@ -1,5 +1,5 @@
-# FROM mhart/alpine-node:8.12.0
-FROM mhart/alpine-node:10
+FROM mhart/alpine-node:8.12.0
+# FROM mhart/alpine-node:10
 
 MAINTAINER Alex Fux <alexander@soluto.com>
 
